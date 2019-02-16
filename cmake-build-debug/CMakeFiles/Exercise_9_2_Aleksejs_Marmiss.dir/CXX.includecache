@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Aleksejs/CLionProjects/Exercise_9_2_Aleksejs_Marmiss/PasstNicht.h
+map
+-
+
+C:/Users/Aleksejs/CLionProjects/Exercise_9_2_Aleksejs_Marmiss/Prapositionen.h
+map
+-
+
+C:/Users/Aleksejs/CLionProjects/Exercise_9_2_Aleksejs_Marmiss/Vocabulary.h
+map
+-
+vector
+-
+
+C:/Users/Aleksejs/CLionProjects/Exercise_9_2_Aleksejs_Marmiss/main.cpp
+iostream
+-
+algorithm
+-
+ctime
+-
+cstdlib
+-
+Vocabulary.h
+C:/Users/Aleksejs/CLionProjects/Exercise_9_2_Aleksejs_Marmiss/Vocabulary.h
+Prapositionen.h
+C:/Users/Aleksejs/CLionProjects/Exercise_9_2_Aleksejs_Marmiss/Prapositionen.h
+PasstNicht.h
+C:/Users/Aleksejs/CLionProjects/Exercise_9_2_Aleksejs_Marmiss/PasstNicht.h
+

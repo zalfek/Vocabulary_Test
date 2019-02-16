@@ -1,0 +1,3 @@
+C:/Users/Aleksejs/CLionProjects/Exercise_9_2_Aleksejs_Marmiss/cmake-build-debug/CMakeFiles/Exercise_9_2_Aleksejs_Marmiss.dir
+C:/Users/Aleksejs/CLionProjects/Exercise_9_2_Aleksejs_Marmiss/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Aleksejs/CLionProjects/Exercise_9_2_Aleksejs_Marmiss/cmake-build-debug/CMakeFiles/rebuild_cache.dir
